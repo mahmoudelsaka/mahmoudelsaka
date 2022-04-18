@@ -3,7 +3,7 @@
 I'm experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in Python (Programming Language), Cascading Style Sheets (CSS), HTML, C#, and Microsoft SQL Server. Strong engineering professional graduated from The Higher Institute for Specific Studies.
 
 
-### I'm Odoo Developer
+### Odoo Developer
 <!--Here are some ideas to get you started:-->
 
 - 🔭 Currently working on Odoo ERP
