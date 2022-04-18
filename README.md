@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**mahmoudelsaka/mahmoudelsaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mahmoud Elsaka 
+I'm experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in Python (Programming Language), Cascading Style Sheets (CSS), HTML, C#, and Microsoft SQL Server. Strong engineering professional graduated from The Higher Institute for Specific Studies.
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
