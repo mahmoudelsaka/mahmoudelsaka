@@ -8,13 +8,13 @@
 <p align="center"> <a href="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png"><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="elsaka" style="width:200px;height:220px"/></p>
   
 
-- 🔭 I’m currently working on **Odoo Framework**
+<p align="left"> - 🔭 I’m currently working on **Odoo Framework**</p>
 
-- 🌱 I’m currently learning **Django,Docker, Redis**
+<p align="left"> - 🌱 I’m currently learning **Django,Docker, Redis**</p>
 
-- 💬 Ask me about **Python, Odoo, Html**
+<p align="left"> - 💬 Ask me about **Python, Odoo, Html**</p>
 
-- 📫 How to reach me **mshaban2010.ms@gmail.com**
+<p align="left"> - 📫 How to reach me **mshaban2010.ms@gmail.com**</p>
 
 <!--- ⚡ Fun fact **I think i'm**-->
 
