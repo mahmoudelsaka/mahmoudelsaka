@@ -5,16 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudelsaka" alt="mahmoudelsaka"/></a> </p>
 
-<p align="center"> <a href="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png"><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="elsaka" style="width:200px;height:220px"/></p>
-  
+<p align="left"> <a href="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png"><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="mahmoudelsaka"/></a> </p>
 
-<p align="left"> - 🔭 I’m currently working on **Odoo Framework**</p>
 
-<p align="left"> - 🌱 I’m currently learning **Django,Docker, Redis**</p>
+- 🔭 I’m currently working on **Odoo Framework**
 
-<p align="left"> - 💬 Ask me about **Python, Odoo, Html**</p>
+- 🌱 I’m currently learning **Django,Docker, Redis**
+ 
+- 💬 Ask me about **Python, Odoo, Html**
 
-<p align="left"> - 📫 How to reach me **mshaban2010.ms@gmail.com**</p>
+- 📫 How to reach me **mshaban2010.ms@gmail.com**
 
 <!--- ⚡ Fun fact **I think i'm**-->
 
