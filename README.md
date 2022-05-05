@@ -14,7 +14,7 @@
  
 - 💬 Ask me about **Python, Odoo, Html**
 
-- 📫 How to reach me **mshaban2010.ms@gmail.com**
+- 📫 How to reach me **mahmoud.elsaka@rightechs.net**
 
 <!--- ⚡ Fun fact **I think i'm**-->
 
