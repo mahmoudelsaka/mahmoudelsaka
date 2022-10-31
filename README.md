@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Odoo Framework**
 
-- 🌱 I’m currently learning **Django,Docker, Redis**
+- 🌱 I’m currently learning **AI,ML**
  
 - 💬 Ask me about **Python, Odoo, Html**
 
